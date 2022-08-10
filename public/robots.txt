@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 Disallow: /bin/
-Sitemap: https://maqib.com/sitemap.xml
+Sitemap: https://liutinger.com/sitemap.xml

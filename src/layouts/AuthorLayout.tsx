@@ -40,7 +40,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
               <SocialIcon kind="zhihu" href={zhihu} />
             </div>
           </div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
+          {/* <div className="pt-8 pb-8 prose max-w-none dark:prose-dark xl:col-span-2">{children}</div> */}
         </div>
       </div>
     </>

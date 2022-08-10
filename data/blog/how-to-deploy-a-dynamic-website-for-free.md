@@ -151,7 +151,7 @@ Vercel 绑定域名
 
 如果是老用户切换成 QQ 登录也可以买。毕竟服务器在国内，白国外还是好快很多的。
 
-我之前给我的[博客](https://maqib.cn/)备案的时候是 16 年，现在也不记得具体步骤。
+我之前给我的博客备案的时候是 16 年，现在也不记得具体步骤。
 只记得备案方会给你邮寄一个幕布，按要拍了照片邮寄回去即可。不是很复杂，就是时间久了点。
 ![网站备案幕布拍照](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c265ef8fbe44d53ac779518406b31d7~tplv-k3u1fbpfcp-watermark.image?)
 
@@ -162,5 +162,3 @@ Vercel 绑定域名
 ---
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/blog/how-to-deploy-a-dynamic-website-for-free)

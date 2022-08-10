@@ -185,5 +185,3 @@ function compileScss(code) {
 本篇中浏览器编译的代码都很简单，但我却花了我几天时间，主要是这些代码都用的比较少，我又需要将编译的逻辑放入 web worker 中，然而 web worker 又没有 document 对象，所以不能直接使用 browser 版本的 js。当然目前还没实现 react typescript 的编译功能，先不卡在这了，把这项功能加入到 Todo List 中吧。
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/)

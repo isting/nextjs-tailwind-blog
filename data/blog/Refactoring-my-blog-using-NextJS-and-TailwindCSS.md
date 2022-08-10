@@ -13,7 +13,6 @@ layout: PostLayout
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f41f975663e24f81b55193e9efd2bf03~tplv-k3u1fbpfcp-watermark.image)
 
 - [git 地址](https://github.com/maqi1520/nextjs-tailwind-blog)
-- [在线地址](http://maqib.cn/)
 
 这是笔者第三次重构博客，虽然博客应用是最简单的应用，但学习新技术何不从重构博客开始？
 

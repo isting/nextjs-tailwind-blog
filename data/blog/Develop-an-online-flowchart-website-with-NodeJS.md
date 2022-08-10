@@ -75,7 +75,7 @@ iframe 内部想要跟父容器的通信可以使用 parent，又遇到了问题
 - Authentication: [github OAuth](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
 - 前端: [Jquery](https://jquery.com/)
 
-这边的技术栈我就直接选用了我[博客](https://maqib.cn/)的相同的技术栈，毕竟注册登录这些代码都能直接拿过来用。
+这边的技术栈我就直接选用了我博客的相同的技术栈，毕竟注册登录这些代码都能直接拿过来用。
 
 > 感兴趣的同学可以看下我之前的文章 [用 NextJS 和 TailwindCSS 重构我的博客](https://juejin.cn/post/6984267680324780040)
 
@@ -184,5 +184,3 @@ model History {
 ---
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/blog/Develop-an-online-flowchart-website-with-NodeJS)

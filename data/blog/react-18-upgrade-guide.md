@@ -286,5 +286,3 @@ globalThis.IS_REACT_ACT_ENVIRONMENT = true
 如果大家想了解更多内容，欢迎查看 `React` 官方博客：https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/blog/react-18-upgrade-guide")

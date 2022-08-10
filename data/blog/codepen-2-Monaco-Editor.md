@@ -415,5 +415,3 @@ export function setupTsxMode(content) {
 [闲谈 Monaco Editor-基本使用](https://zhuanlan.zhihu.com/p/47746336 '闲谈 Monaco Editor')
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/)

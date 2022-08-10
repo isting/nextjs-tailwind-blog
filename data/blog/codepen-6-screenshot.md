@@ -245,5 +245,3 @@ https://tcb-mtsm4smjc8dbf7-8dkm6932475ab.service.tcloudbase.com/baidu
 代码仓库：https://github.com/maqi1520/next-code-pen
 
 以上就是本文全部内容，希望这篇文章对大家有所帮助，也可以参考我往期的文章或者在评论区交流你的想法和心得，欢迎一起探索前端。
-
-本文首发掘金平台，来源[小马博客](https://maqib.cn/)
