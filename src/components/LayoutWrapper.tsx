@@ -1,18 +1,21 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Logo from '@/data/logo.svg'
+import LogoMoon from '@/data/logo-moon.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import { ReactNode } from 'react'
+import { useTheme } from 'next-themes'
 
 interface Props {
   children: ReactNode
 }
 
 const LayoutWrapper = ({ children }: Props) => {
+  const { theme } = useTheme()
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
@@ -20,9 +23,7 @@ const LayoutWrapper = ({ children }: Props) => {
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
-                <div className="mr-3">
-                  <Logo />
-                </div>
+                <div className="mr-3">{theme === 'dark' ? <LogoMoon /> : <Logo />}</div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
                     {siteMetadata.headerTitle}
